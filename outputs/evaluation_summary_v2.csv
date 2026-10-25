@@ -1,0 +1,2 @@
+examples,successful_api_calls,baseline_jurisdiction_accuracy,gemini_jurisdiction_accuracy_all_attempts,gemini_jurisdiction_accuracy_successful_calls,evidence_substring_valid_rate,average_latency_seconds
+10,9,0.8,0.9,1.0,1.0,107.92

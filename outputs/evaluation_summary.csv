@@ -1,0 +1,2 @@
+category,examples_attempted,successful_api_calls,failed_api_calls,baseline_accuracy,gemini_accuracy_all_attempts,gemini_accuracy_successful_calls,evidence_valid_rate_successful_calls,average_latency_seconds
+Governing Law,10,9,1,0.8,0.1,0.111,1.0,107.919

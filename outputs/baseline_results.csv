@@ -1,0 +1,305 @@
+row_index,category,clause_text,expected_answer,predicted_answer,correct_exact_match
+0,Governing Law,"This Agreement is accepted by Company in the State of Nevada and shall be governed by and construed in accordance with the laws thereof, which laws shall prevail in the event of any conflict.",Nevada,Nevada,True
+1,Governing Law,"This Agreement is subject to all laws, regulations, license conditions and decisions of the Canadian Radio-television and Telecommunications Commission (""CRTC"") municipal, provincial and federal governments or other authorities which are applicable to Rogers and/or Licensor, and which are now in force or hereafter adopted (""Applicable Law""). This Agreement shall be governed by laws of the Province of Ontario and the federal laws of Canada applicable therein.","Ontario, Canada",,False
+2,Governing Law,"All questions with respect to the construction of this Agreement, and the rights and liabilities of the Parties hereto, shall be governed by the laws of the State of Florida.",Florida,Florida,True
+3,Governing Law,This Agreement shall be governed by and construed in accordance with the internal laws of the State of Nevada without giving effect to any choice or conflict of law provision or rule.,Nevada,Nevada,True
+4,Governing Law,"This Agreement shall be governed by and construed in all respects in accordance with the laws of the State of New York, without giving effect to any conflicts of laws principles.",New York,New York,True
+5,Governing Law,"This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, without giving effect to the conflict of laws principles thereof.",New York,New York,True
+6,Governing Law,"This Agreement shall be interpreted and enforced in accordance with the laws of the State of California as applied to agreements made, entered into and performed entirely in California by California residents, notwithstanding the actual residence of the parties, without giving effect to any choice of laws of California that would require the application of the laws of a state other than California.",California,California,True
+7,Governing Law,"This Agreement has been entered into in the State of                   Tennessee, and the validity, interpretation and legal effect                   of this Agreement will be governed by the laws of the State of                   Tennessee applicable to contracts entered into and performed                   entirely within the State of Tennessee.",Tennessee,Tennessee,True
+8,Governing Law,"This Agreement has been executed and delivered in Los Angeles County in the State of California, and its interpretation, validity and performance shall be construed and enforced in accordance with the laws of the State of California.",California,California,True
+9,Governing Law,"This Agreement will be governed by and construed in accordance with the laws of England and Wales, without regard to conflict of laws principles.","England, United Kingdom; Wales, United Kingdom",,False
+10,Governing Law,This Agreement shall be governed and construed in accordance with the laws of New York State   (without regard to the conflict of laws provisions thereof).,New York,New York,True
+11,Governing Law,"This Agreement shall be governed, interpreted and construed in accordance with the substantive laws of the Delaware, in the country of the United State of America, without regard to its conflict of laws principles.",Delaware,Delaware,True
+12,Governing Law,The validity and interpretation of this Agreement and the legal relations of the Parties to it will be governed by the laws of the State of New York without recourse to its conflicts of law rules.,New York,New York,True
+13,Governing Law,"This Agreement shall be governed by, and any dispute arising hereunder shall be determined in accordance with, the laws of State of New York (without giving effect to conflict of laws principles) including all matters of construction, validity and performance.",New York,New York,True
+14,Governing Law,This agreement and any dispute or claim arising out of or in connection with it or its subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with Ohio law.,Ohio,Ohio,True
+15,Governing Law,"This Agreement is a contract under the laws of the State of Florida and for all purposes shall be governed by and construed in accordance with the substantive laws of the State of Florida, without regard to its principles of conflicts of laws provisions.",Florida,Florida,True
+16,Governing Law,"This Agreement shall be governed by and construed pursuant to the laws of the State of Indiana, U.S.A., without reference to principals of conflicts of laws.",Indiana,Indiana,True
+17,Governing Law,"This Agreement shall be governed in all respects by the laws of the United States and the State of Florida, except for conflict of laws provisions.",Florida,Florida,True
+18,Governing Law,"THIS AGREEMENT, AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES, SHALL BE GOVERNED BY AND CONSTRUED AND ENFORCED IN ACCORDANCE WITH THE SUBSTANTIVE LAWS OF THE STATE OF TEXAS, U.S.A. WITHOUT REGARD TO ITS PRINCIPLES OF CONFLICTS OF LAWS.",Texas,Texas,True
+20,Governing Law,"Regardless of the place of execution hereof, this Agreement, all amendments hereto, and any and all issues or controversies arising here from or related hereto, shall be governed by and construed exclusively in accordance with the laws and decisions of the State of Michigan.",Michigan,Michigan,True
+21,Governing Law,"This Agreement, all amendments hereto, and any and all issues or controversies arising here from or related hereto, shall be governed by and construed exclusively in accordance with the laws of the State of New York.",New York,New York,True
+23,Governing Law,"The parties hereto have expressly agreed that this Agreement shall be governed by, and construed in accordance with, the laws of the State of New York, applicable to contracts executed and fully to be performed therein, to the exclusion of any other applicable body of governing law.",New York,New York,True
+25,Governing Law,This Agreement shall be governed by and construed in all respects exclusively in accordance with the laws of the Netherlands.,Netherlands,,False
+26,Governing Law,This Agreement shall be governed by the laws of the State of California without giving effect to conflict or choice of law principles.,California,California,True
+27,Governing Law,"This Agreement will be governed by the substantive laws of the State of New York, without regard for its conflict of laws provisions.",New York,New York,True
+28,Governing Law,"Any disputes relating to, arising out of or resulting from this Agreement, including to its execution, performance, or enforcement, shall be governed by, and construed in accordance with, the Laws of the State of Delaware, regardless of the Laws that might otherwise govern under applicable principles of conflicts of Laws thereof.",Delaware,Delaware,True
+29,Governing Law,"Any disputes arising out of or relating to this Agreement, including to its execution, performance or enforcement, shall be governed by, and construed in accordance with, the Laws of the State of New York, regardless of the Laws that might otherwise govern under applicable principles of conflicts of Laws thereof.",New York,New York,True
+30,Governing Law,This IP Agreement will be construed in accordance with the substantive laws of the state of New York and of the United States of America.,New York,New York,True
+31,Governing Law,This Agreement shall be governed by the laws of the State of Iowa.,Iowa,Iowa,True
+32,Governing Law,"This Agreement will be governed in all respects by the laws of the State of Ohio (without regard to conflicts of law provisions), as such laws are applied to agreements entered into and to be performed entirely within the State of Ohio between Ohio residents.",Ohio,Ohio,True
+33,Governing Law,"This Agreement and all disputes arising out of or related to this Agreement or any breach hereof shall be governed by and construed in accordance with the laws of the State of New York, without giving effect to any choice of law principles that would result in the application of the laws of any other jurisdiction.",New York,New York,True
+34,Governing Law,"This Agreement shall be construed, and legal relations between the parties hereto shall be determined, in accordance with the laws of the State of Maryland applicable to contracts solely executed and wholly to be performed within the State of Maryland without giving effect to the principles of conflicts of laws.",Maryland,Maryland,True
+35,Governing Law,"The laws of the State of New York (excluding any laws that direct the application of another jurisdiction's law) govern all matters arising out of or relating to this Agreement and all of the transactions it contemplates, including its validity, interpretation, construction, performance, and enforcement.",New York,New York,True
+36,Governing Law,THIS AGREEMENT SHALL BE GOVERNED BY AND INTERPRETED IN ACCORDANCE WITH THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO CONFLICTS OF LAW PRINCIPLES (OTHER THAN SECTION 5-1401 OF THE NEW YORK GENERAL OBLIGATIONS LAW).,New York,New York,True
+37,Governing Law,This Agreement and any matters arising out of or related to this Agreement will be governed by the laws of the State of Nevada.,Nevada,Nevada,True
+38,Governing Law,"The construction, interpretation and performance of this Agreement and all transactions under it shall be governed by the law of the State of Israel, without giving effect to choice of law rules, and both Parties consent to jurisdiction by the courts of the City of Haifa.",Israel,,False
+39,Governing Law,"The laws of the State of New York (without giving effect to its conflicts of law principles) govern all matters arising out of or relating to this Agreement and all of the transactions it contemplates, including without limitation, its validity, interpretation, construction, performance, and enforcement.",New York,New York,True
+40,Governing Law,"This Agreement shall be interpreted and enforced exclusively under the laws of the State of Israel, without regard to the conflict of laws provisions thereof.",Israel,,False
+41,Governing Law,"This Agreement and all Actions (whether in contract or tort) that may be based upon, arise out of or relate to this Agreement or the negotiation, execution or performance hereof or thereof shall be governed by and construed in accordance with the Law of the State of Delaware, without regard to any Laws or principles thereof that would result in the application of the Laws of any other jurisdiction.",Delaware,Delaware,True
+42,Governing Law,This Agreement and the application and interpretation hereof shall be governed exclusively by the laws of the State of Colorado.,Colorado,Colorado,True
+43,Governing Law,This Agreement will be construed in accordance with the laws of the State of Indiana without regard to principles of conflicts of laws.,Indiana,Indiana,True
+44,Governing Law,"This Agreement shall be governed by and construed in accordance with the laws of the State of Israel, and the courts of Tel-Aviv, Israel",Israel,,False
+45,Governing Law,"This Agreement shall be governed, interpreted and construed in accordance with the laws of the State of Alabama, without giving effect to its conflict of laws provisions.",Alabama,Alabama,True
+46,Governing Law,"This Agreement shall be governed by, and construed in accordance with the law of the State of New York.",New York,New York,True
+47,Governing Law,"This Agreement shall be governed by, and construed in accordance with the laws of Spain.",Spain,,False
+48,Governing Law,"Should either Party herein initiate a legal proceeding for revoking any arbitration result regarding the Contract, both Parties herein agree to take the Miaoli District Court of Taiwan as the competent court of first instance pursuant to the laws of the R.O.C..",Taiwan,,False
+51,Governing Law,"This Agreement shall be governed by and interpreted in accordance with the substantive laws of the State of New York, without regard to conflict of law principles thereof.",New York,New York,True
+52,Governing Law,"This Agreement and any and all matters arising directly or indirectly herefrom shall be governed by and construed and enforced in accordance with the internal laws of the [***] applicable to agreements made and to be performed entirely in such state, including its statutes of limitation but without giving effect to the conflict of law principles thereof.",[* * *],,True
+53,Governing Law,This Agreement shall be governed by and construed in accordance with the laws of the State of Nevada without giving effect to choice of law doctrine.,Nevada,Nevada,True
+54,Governing Law,"This Agreement and all disputes arising out of or related to this Agreement or any breach hereof are governed by and construed under the Laws of the State of New York, without giving effect to any choice of law principles that would require the application of the Laws of a different state.",New York,New York,True
+55,Governing Law,This Agreement shall be governed by and construed under the laws of the Commonwealth of Virginia without regard to the conflicts of law provisions thereof.,Virginia,Virginia,True
+56,Governing Law,"This Agreement shall be governed by the laws of the State of New York and all disputes and controversies arising out of or in connection with the Agreement shall be brought exclusively before the competent courts in New York County, New York; provided however that judgment shall be enforceable in any country and that nothing in this Section shall prevent or restrict either Party from seeking interim relief in any competent jurisdiction as it may deem fit.",New York,New York,True
+57,Governing Law,"This Agreement shall be governed by, and construed and enforced in accordance with, the laws in force in the Province of Ontario (excluding any conflict of laws rule or principle which might refer such construction to the laws of another jurisdiction).","Ontario, Canada",,False
+59,Governing Law,The laws of California shall govern the construction and enforceability of the Agreement.,California,California,True
+60,Governing Law,"This Agreement shall be governed by and construed in accordance with the laws of the State of Ohio, without reference to principles of conflicts of law.",Ohio,Ohio,True
+61,Governing Law,This Agreement shall be construed in accordance with the laws of the State of Kansas.,Kansas,Kansas,True
+62,Governing Law,"This Agreement shall be governed in all respects, including as to validity, interpretation and effect, by the Laws of the State of Illinois, without giving effect to its principles or rules of conflict of laws, to the extent such principles or rules are not mandatorily applicable by statute and would permit or require the application of the Laws of another jurisdiction.",Illinois,Illinois,True
+63,Governing Law,"THIS AGREEMENT, INCLUDING THE RIGHTS AND DUTIES OF THE PARTIES HERETO, SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE INTERNAL LAWS OF THE STATE OF NEW YORK (INCLUDING SECTIONS 5-1401 AND 5-1402 OF THE GENERAL OBLIGATIONS LAW OF THE STATE OF NEW YORK, BUT WITHOUT REGARD TO ANY OTHERWISE APPLICABLE CONFLICTS OF LAW PRINCIPLES).",New York,New York,True
+65,Governing Law,"Without reference to choice or conflict of law principles, this Agreement shall be governed by and construed in accordance with the laws of the State of California, USA.",California,California,True
+66,Governing Law,"This Agreement shall be governed by and interpreted in accordance with the laws of the State of Florida, without regard to its conflict-of-laws or choice-of law principles.",Florida,Florida,True
+67,Governing Law,This agreement shall be governed by the Laws of England (English common and statutory Law).,England,,False
+68,Governing Law,"This Agreement is subject to and shall be construed in accordance with the laws of the Commonwealth of Virginia with jurisdiction and venue in federal and Virginia courts in Alexandria and Arlington, Virginia.",Virginia,Virginia,True
+69,Governing Law,"It will be governed by the law of the People's Republic of China ,otherwise it is governed by United Nations Convention on Contract for the International Sale of Goods.",People's Republic of China; United Nations Convention on Contract for the International Sale of Goods,,False
+70,Governing Law,"This Agreement and all claims or causes of action arising out of or related to this Agreement shall be governed in all respects, including as to validity, interpretation and effect, by the laws of the State of Illinois and the United States of America, without giving effect to its principles or rules of conflict of laws.",Illinois,Illinois,True
+71,Governing Law,"This Agreement shall be governed and construed in accordance with the law set forth in the ExxonMobil Selling Affiliate's general terms and conditions, as applicable. The parties' rights and obligations hereunder shall be construed and enforced under the laws of the State of Texas, U.S.A., without regard to conflict of laws principles. Incoterms 2010 (or any subsequent revision thereof) (""Incoterms"") shall also apply; provided, however, that Incoterms shall apply only to the extent specified in the agreement hereof, and provided, further, that in the event of a conflict between Incoterms and the laws of the State of Texas, U.S.A., the latter shall govern. This Agreement shall be governed by Singapore law, without regard to its conflict of laws principles. This Agreement between EM and Buyer shall be governed by the laws of Belgium (excluding its rules on conflict of laws).",Texas; Singapore; Belgium,Texas,False
+72,Governing Law,The provisions of this Agreement shall be governed by and construed in accordance with the laws of the State of California (excluding any conflict of law rule or principle that would refer to the laws of another jurisdiction).,California,California,True
+73,Governing Law,This Agreement shall be governed by and interpreted in accordance with the laws of the State of Delaware without regard to its conflicts of law principles.,Delaware,Delaware,True
+74,Governing Law,"THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.",New York,New York,True
+75,Governing Law,"This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York without giving effect to the principles of conflicts of law rules.",New York,New York,True
+76,Governing Law,"This Agreement shall be governed by, and construed in accordance with, the laws of the State of New York.",New York,New York,True
+77,Governing Law,"This Agreement is entered into in the State of Texas and shall be governed, interpreted and construed in accordance with the laws of the State of Texas without regard to the conflicts of laws provisions thereof.",Texas,Texas,True
+78,Governing Law,Any controversy between the parties arising under this Agreement and not resolved by the parties shall be determined in accordance with the laws of the State of Michigan.,Michigan,Michigan,True
+79,Governing Law,This Agreement shall be governed and construed in accordance with the laws of the state of Texas without giving effect to the conflict of law rules thereof.,Texas,Texas,True
+80,Governing Law,,People's Republic of China,,False
+81,Governing Law,"This Agreement will be interpreted, construed and enforced in accordance with the Laws of the State of Washington, without reference to its choice of Laws rules.",Washington,Washington,True
+82,Governing Law,This Agreement will be governed and construed in accordance with the laws of the State of California without giving effect to conflict of laws principles.,California,California,True
+83,Governing Law,"This Agreement shall be governed by, and construed in accordance with, the laws of the State of California without reference to its choice of law rules.",California,California,True
+84,Governing Law,This Agreement shall be governed by and interpreted and enforced in accordance with the laws of the Province of Ontario and the Parties agree to abide by the jurisdiction of the Courts of Ontario.,"Ontario, Canada",,False
+85,Governing Law,This Agreement shall be governed by and interpreted under the laws of the State of Delaware without regard to its conflicts of law provisions.,Delaware,Delaware,True
+86,Governing Law,"This Agreement will be governed by the laws of the state where a suit is properly filed under the terms of this paragraph, being either Illinois or New York, and without giving effect to conflict of law principles.",Illinois; New York,Illinois,False
+87,Governing Law,"The Agreement will be governed by and construed in         accordance with the laws of the State of California, notwithstanding the         actual state or country of residence or incorporation of Application         Provider.",California,California,True
+88,Governing Law,"The validity, construction and performance of this Agreement shall be          governed by the laws of the State of New York.",New York,New York,True
+89,Governing Law,This Agreement shall be governed by and interpreted under the laws of the Commonwealth of Pennsylvania without regard to its conflicts of law provisions.,Pennsylvania,Pennsylvania,True
+90,Governing Law,This Agreement shall be governed by and interpreted under the laws of the Commonwealth of Pennsylvania without regard to its conflicts of law provisions.,Pennsylvania,Pennsylvania,True
+91,Governing Law,This Agreement shall be governed by and interpreted under the laws of the Commonwealth of Pennsylvania without regard to its conflicts of law provisions.,Pennsylvania,Pennsylvania,True
+92,Governing Law,"This Agreement and any action<omitted>related  thereto  shall  be governed, controlled, interpreted and defined by and under  the laws of the State of California and the United States, without regard to  the conflicts of laws provisions thereof.",California,California,True
+93,Governing Law,"This Agreement shall be governed by, and construed in accordance with, the Laws of the State of New York, applicable to contracts executed in and to be performed entirely within that<omitted>state.",New York,New York,True
+94,Governing Law,"This Agreement will be governed and construed in accordance with the laws of the State of New York without giving effect to conflict of laws principles. Both parties submit to personal jurisdiction in New York and further agree that any cause of action arising under this Agreement shall be brought in a court in New York City, NY.",New York,New York,True
+95,Governing Law,"This Agreement and all acts and transactions pursuant          ------------- hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the State of California, without giving effect to principles of conflicts of law.",California,California,True
+96,Governing Law,"This Agreement will be governed in all respects by the laws of the State of Delaware, including its conflict with law provisions.",Delaware,Delaware,True
+97,Governing Law,This Agreement shall be binding on the Parties as of the date hereof and is to be construed in accordance  with and governed by the internal laws of the State of Delaware without giving effect to any choice of law rule that would cause the application of  the laws of any jurisdiction other than the internal laws of the State of Delaware to the rights and duties of the Parties.,Delaware,Delaware,True
+98,Governing Law,This Agreement shall be construed and governed in accordance                   with the laws of the State of Maryland regardless of the place                   or places of its physical execution and performance.,Maryland,Maryland,True
+99,Governing Law,"Even in case of agreements with foreign (non-German) Software Publishers and Affiliates, the law of the Federal Republic of Germany applies.",Germany,,False
+100,Governing Law,This Agreement is governed by and construed in accordance with the laws of the State of Virginia.,Virginia,Virginia,True
+102,Governing Law,"The obligations of Affiliate and Network under this Agreement are subject to all applicable federal, state and local laws, rules and regulations, and this Agreement and all matters or issues collateral thereto shall be governed by the laws of the State of New York applicable to contracts to be entirely performed therein.",New York,New York,True
+103,Governing Law,"All  disputes  or  claims  by  Payment  Data  Systems hereunder  shall be resolved by arbitration in McLean, Virginia, pursuant to the rules of the American Arbitration Association. All disputes or claims by NETWORK 1  hereunder shall be resolved by arbitration in San Antonio, Texas, pursuant to the  rules  of  the  American  Arbitration  Association.","Virginia, Texas",Texas,False
+105,Governing Law,This Agreement shall be governed by and construed in accordance with the laws of the State of Connecticut.,Connecticut,Connecticut,True
+106,Governing Law,"This Agreement shall be governed by, and its provisions enforced in accordance with, the laws of California without regard to its principles of conflicts of laws.",California,California,True
+107,Governing Law,"This Agreement shall be governed by the laws of England and Wales, and all actions brought hereunder whether at law or in equity shall be brought in England.","England, United Kingdom; Wales, United Kingdom",,False
+108,Governing Law,"This Agreement will be construed and governed in accordance with the laws of the State of Illinois, without regard to conflict of laws principles.",Illinois,Illinois,True
+1,Effective Date,"July 11 , 2006",7/11/06,,False
+2,Effective Date,"November 15, 2012",11/15/12,"November 15, 2012",False
+3,Effective Date,"Feb 10, 2014",2/10/14,,False
+4,Effective Date,"December 21, 2015",12/21/15,"December 21, 2015",False
+5,Effective Date,"October 1, 1999",10/1/99,"October 1, 1999",False
+6,Effective Date,"May 22, 2000",5/22/00,"May 22, 2000",False
+8,Effective Date,"July 26, 2013",7/26/13,"July 26, 2013",False
+9,Effective Date,22nd day of August 2005,8/22/05,,False
+10,Effective Date,"September 30, 2019",9/30/19,"September 30, 2019",False
+11,Effective Date,"The term of this Agreement shall automatically become effective upon the occurrence of (i) ETON executing a commercial supply agreement with a contract manufacturing organization within forty-five (45) days of the Execution Date, provided that ETON has exercised best efforts to execute such agreement and the failure to execute is solely caused by the refusal or inability of the proposed manufacturing organization to sign a reasonable agreement; and (ii) acceptance for review of the Dossier or marketing application for [ * * * ] by the FDA no later than September 2, 2019 (such date, the ""Effective Date"") and shall end upon the termination or expiration of the Agreement as set forth in Section 11 (the ""Term"").",9/2/19,"September 2, 2019",False
+12,Effective Date,"""Effective Date"" means October 31, 2019.",10/31/19,"October 31, 2019",False
+13,Effective Date,"October 11, 2019",10/11/19,"October 11, 2019",False
+15,Effective Date,1 August 2019,8/1/19,,False
+16,Effective Date,"This Agreement shall become effective upon the date first written above and shall remain in full force and effect for a period of two years (2), unless earlier terminated pursuant to the provisions in this Agreement.",7/19/18,,False
+18,Effective Date,"12th day of November, 2019",11/12/19,,False
+19,Effective Date,"November 7, 2017",11/7/17,"November 7, 2017",False
+20,Effective Date,14th day of November 2017,11/14/17,,False
+21,Effective Date,"15th day of June, 2015",6/15/15,,False
+22,Effective Date,"The effective date of the Franchise will be January 1, 2016.",1/1/16,"January 1, 2016",False
+23,Effective Date,"20t h day of November, 2018",11/20/18,,False
+25,Effective Date,"This Agreement shall come into force on the Date of the Agreement, and shall, subject to article 18, remain in full force and effect for an initial period of *** from the Commercial Launch Date.",9/18/08,,False
+26,Effective Date,The Effective Date of this Agreement shall be the later of the dates shown by the signatures below.,3/14/18,,False
+27,Effective Date,"This Agreement will be effective beginning on 12:01 a.m., Eastern Time, on the day after the date of last signature to these Base Terms (""Effective Date"").",12/3/08,,False
+29,Effective Date,"This Agreement may be executed in one or more counterparts, all of which counterparts shall be considered one and the same agreement, and shall become effective when one or more counterparts have been signed by each Party and delivered to the other Party.",9/27/18,,False
+31,Effective Date,"November 28, 2018",11/28/18,"November 28, 2018",False
+33,Effective Date,"December 17, 2019",12/17/19,"December 17, 2019",False
+34,Effective Date,"""EFFECTIVE DATE"" of this Agreement shall mean the date the last party hereto has executed this Agreement.<omitted>5/11/2016",5/11/16,5/11/2016,False
+35,Effective Date,"31  day of July, 2019",7/31/19,,False
+38,Effective Date,1.4.2011,4/1/11,,False
+39,Effective Date,"September 28, 2018",9/28/18,"September 28, 2018",False
+41,Effective Date,[●],[]/[]/[][],,True
+42,Effective Date,24t h day of August 2018,8/24/18,,False
+43,Effective Date,"The term of this Agreement (the ""Term"") will begin on the date hereof (the ""Commencement Date""), and will continue until the earlier of (i) December 31, 2022, (ii) the termination or expiration of the Studio Lease (defined below), (iii) election to terminate and notice thereof given by Programmer to Licensee, and (iv) mutual written consent of Licensee and Programmer (the ""Term""), unless extended or earlier terminated pursuant to Section 11 hereof.",11/25/19,"December 31, 2022",False
+44,Effective Date,20t h day of December 2018,12/20/18,,False
+45,Effective Date,"""Effective Date"" means the date as of which the last signature of a Party is affixed hereto. May 1, 2020",5/1/20,"May 1, 2020",False
+46,Effective Date,"12th day of November, 2018",11/12/18,,False
+47,Effective Date,"The present Agreement is effective as from 1 January 2009 1st day of January, 2009,",1/1/09,,False
+49,Effective Date,"December 30, 2016",12/30/16,"December 30, 2016",False
+51,Effective Date,"August 21, 2018",8/21/18,"August 21, 2018",False
+52,Effective Date,"September 26, 2018<omitted>""Effective Date"" shall have the meaning set forth in the preamble to this Agreement. September 26, 2018",9/26/18,"September 26, 2018",False
+53,Effective Date,"September 10, 2015",9/10/15,"September 10, 2015",False
+54,Effective Date,"May 31, 2019",5/31/19,"May 31, 2019",False
+55,Effective Date,"7th day of April, 2017",4/7/17,,False
+56,Effective Date,31 day of July 2019,7/31/19,,False
+57,Effective Date,"October 30, 2018",10/30/18,"October 30, 2018",False
+59,Effective Date,"""Effective Date"" means the date of last signature on this Agreement. 04/25/2018",4/25/18,04/25/2018,False
+64,Effective Date,"April 1, 2018",4/1/18,"April 1, 2018",False
+65,Effective Date,"February 1, 2019",2/1/19,"February 1, 2019",False
+66,Effective Date,"1st day of April, 2018",4/1/18,,False
+67,Effective Date,This agreement commences upon execution of this document.,1/15/18,,False
+68,Effective Date,"This Agreement shall commence on March 15, 2018 and will expire on March 14, 2020 unless terminated earlier pursuant to Section 13 of the Agreement (the ""Term"").",3/14/18,"March 15, 2018",False
+70,Effective Date,"November 1, 2019",11/1/19,"November 1, 2019",False
+71,Effective Date,"Effective Date: January 1, 2019",1/1/19,"January 1, 2019",False
+72,Effective Date,"September ___, 2019",09/[]/2019,,False
+73,Effective Date,"[ ] day of [ ], 2020",[]/[]/2020,,False
+74,Effective Date,"[·] day of [·], 2019",[]/[]/2019,,False
+75,Effective Date,"[·], 2019",[]/[]/2019,,False
+76,Effective Date,"[ ] day of [ ], 2020",[]/[]/2020,,False
+77,Effective Date,"14t h day of April, 2015",4/14/15,,False
+78,Effective Date,"EFFECTIVE DATE: November 01, 2016",11/1/16,"November 01, 2016",False
+79,Effective Date,"14t h day of April, 2015",4/14/15,,False
+80,Effective Date,"This Agreement takes effect upon the signatures and seals of both Parties in triplicate.<omitted>December 22, 2014",12/22/14,"December 22, 2014",False
+81,Effective Date,"January 30, 2000",1/30/00,"January 30, 2000",False
+82,Effective Date,"June 21, 1999",6/21/99,"June 21, 1999",False
+83,Effective Date,"The Term shall commence on the date of this Agreement and, unless earlier terminated or extended as provided below, shall end as of December 31, 2000.",6/8/99,"December 31, 2000",False
+84,Effective Date,"The effective date of the start of the Term will be from the Launch Date.<omitted>The Parties have agreed that they will mutually approve the design of the      Co-Branded Site and that the launch date of the Co-Branded Site shall be      September 1st, 1999 unless mutually extended by the Parties as agreed to in      writing.",9/1/99,,False
+85,Effective Date,"March 3, 2000",3/3/00,"March 3, 2000",False
+86,Effective Date,"19th day of January, 2001",1/19/01,,False
+87,Effective Date,"16th day of February, 2000",2/16/00,,False
+89,Effective Date,"March 15, 2000",3/15/00,"March 15, 2000",False
+90,Effective Date,"November 19, 1999",11/19/99,"November 19, 1999",False
+91,Effective Date,"September 30, 1999",9/30/99,"September 30, 1999",False
+92,Effective Date,"Nov  5,  1999",11/5/99,,False
+93,Effective Date,"November 14, 2000",11/14/00,"November 14, 2000",False
+94,Effective Date,"March ___, 1999",03/[]/1999,,False
+95,Effective Date,"April 27, 1999",4/27/99,"April 27, 1999",False
+97,Effective Date,The Parties contemplate that the Effective Date will be on or about __________________________.,[]/[]/[],,True
+98,Effective Date,"""Effective Date"" means July 15, 2005.",7/15/05,"July 15, 2005",False
+100,Effective Date,1s t day of October 2008,10/1/08,,False
+101,Effective Date,"October 15,  2004",10/15/04,"October 15,  2004",False
+102,Effective Date,"6t h day of March, 2006",3/6/06,,False
+104,Effective Date,"March 1, 2012",3/1/12,"March 1, 2012",False
+106,Effective Date,"All terms of this Agreement will automatically commence on November 1st, 2017, and expire on November 2nd, 2020.",11/1/17,,False
+107,Effective Date,"""Commencement Date"" means: 1st January 2013.",1/1/13,,False
+108,Effective Date,"14th day of March, 2016",3/14/16,,False
+109,Effective Date,"February 21, 2011",2/21/11,"February 21, 2011",False
+110,Effective Date,"February 20, 2012",2/20/12,"February 20, 2012",False
+111,Effective Date,"1st day of June, 2017<omitted>WHEREAS, it is now understood and agreed that this split-dollar agreement is to be effective as of the date first listed above;",6/1/17,,False
+112,Effective Date,"July 1, 2019",7/1/19,"July 1, 2019",False
+113,Effective Date,This Agreement shall become effective as of the first date above written,[]/[]/2020,,False
+114,Effective Date,"February 4, 2020",2/4/20,"February 4, 2020",False
+115,Effective Date,"March 20, 2020",3/20/20,"March 20, 2020",False
+116,Effective Date,"March 20, 2020",3/20/20,"March 20, 2020",False
+117,Effective Date,"Nov. 02, 2019",11/2/19,,False
+119,Effective Date,1st day of September 2016,9/1/16,,False
+120,Effective Date,"November 20, 2019",11/20/19,"November 20, 2019",False
+121,Effective Date,"The term of this Agreement (""Term"") will begin on the date this Agreement is signed by the last signatory (""Effective Date"") and remain in effect for [***]; provided, however, that the terms of this Agreement shall remain applicable to any SOW that was executed by the Parties prior to the expiration or termination of this Agreement but whose period of performance extends beyond the expiration or termination of this Agreement.<omitted>August 08, 2018",8/8/18,"August 08, 2018",False
+122,Effective Date,"1s t day of March, 2018",3/1/18,,False
+123,Effective Date,12-23-2019,12/23/19,12-23-2019,False
+124,Effective Date,", 2020",[]/[]/2020,,False
+0,Termination For Convenience,,No,,False
+1,Termination For Convenience,"Notwithstanding any other provision of this Agreement, Rogers may terminate this Agreement, at any time, upon sixty (60) days' prior written notice to Licensor.",Yes,"Notwithstanding any other provision of this Agreement, Rogers may terminate this Agreement, at any time, upon sixty (60) days' prior written notice to Licensor.",False
+2,Termination For Convenience,,No,,False
+3,Termination For Convenience,,No,,False
+4,Termination For Convenience,,No,,False
+5,Termination For Convenience,,No,,False
+6,Termination For Convenience,,No,,False
+7,Termination For Convenience,,No,,False
+8,Termination For Convenience,,No,,False
+9,Termination For Convenience,,No,,False
+10,Termination For Convenience,,No,,False
+11,Termination For Convenience,"ETON has the right to terminate this Agreement after approval of the Dossier or marketing application for the Product (or added new product), at its sole discretion, upon providing one hundred eighty (180) days' written notice to Aucta.",Yes,"ETON has the right to terminate this Agreement after approval of the Dossier or marketing application for the Product (or added new product), at its sole discretion, upon providing one hundred eighty (180) days' written notice to Aucta.",False
+12,Termination For Convenience,"Accordingly, either Party may terminate this Agreement or all/part of a Project for any reason and at any time upon giving the other Party sixty (60) days prior written notice.",Yes,"Accordingly, either Party may terminate this Agreement or all/part of a Project for any reason and at any time upon giving the other Party sixty (60) days prior written notice.",False
+13,Termination For Convenience,,No,,False
+14,Termination For Convenience,,No,,False
+15,Termination For Convenience,,No,,False
+16,Termination For Convenience,"This Agreement may be terminated by either party for any reason or no reason, whether or not extended beyond the initial term, by giving the other party written notice ninety (90) days in advance.",Yes,"This Agreement may be terminated by either party for any reason or no reason, whether or not extended beyond the initial term, by giving the other party written notice ninety (90) days in advance.",False
+17,Termination For Convenience,,No,,False
+18,Termination For Convenience,,No,,False
+19,Termination For Convenience,,No,,False
+20,Termination For Convenience,,No,,False
+21,Termination For Convenience,,No,,False
+22,Termination For Convenience,,No,,False
+23,Termination For Convenience,,No,,False
+24,Termination For Convenience,Company at its sole discretion may at any time alter or cease providing the Customer Service which it has agreed to provide to Client relating to Client Website pursuant to this Agreement without any liability to Company.,Yes,,False
+25,Termination For Convenience,The Agreement may be terminated by both Parties with a notification period of *** before the end of the Initial Term of the Agreement.,Yes,The Agreement may be terminated by both Parties with a notification period of *** before the end of the Initial Term of the Agreement.,False
+26,Termination For Convenience,"Regardless of the term, Licensee can terminate Agreement with at least one hundred eighty (180) days written notice with no further obligation.",Yes,"Regardless of the term, Licensee can terminate Agreement with at least one hundred eighty (180) days written notice with no further obligation.",False
+27,Termination For Convenience,"Customer may terminate this Agreement, or any portion of Services specified herein, for convenience by: providing at least sixty (60) days prior written notice to IBM; and paying the applicable early termination charges specified in Attachment C.",Yes,"Customer may terminate this Agreement, or any portion of Services specified herein, for convenience by: providing at least sixty (60) days prior written notice to IBM; and paying the applicable early termination charges specified in Attachment C.",False
+28,Termination For Convenience,"This Agreement may be terminated by Nuance at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.",Yes,"This Agreement may be terminated by Nuance at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.",False
+29,Termination For Convenience,"This Agreement may be terminated by Honeywell at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.",Yes,"This Agreement may be terminated by Honeywell at any time, in its sole discretion, prior to the Distribution; provided, however, that this Agreement shall automatically terminate upon the termination of the Separation Agreement in accordance with its terms.",False
+30,Termination For Convenience,,No,,False
+31,Termination For Convenience,"Either Party may terminate the Project and all commitments and obligations with respect thereto, subject to Section 8.3 herein, upon thirty (30) days written notice to the other Party. This Agreement may be terminated by ArTara upon thirty (30) days prior written notice to University.",Yes,"Either Party may terminate the Project and all commitments and obligations with respect thereto, subject to Section 8.3 herein, upon thirty (30) days written notice to the other Party.",False
+32,Termination For Convenience,,No,,False
+33,Termination For Convenience,"Vyera shall have the right to terminate this Agreement in its entirety:<omitted>(c) at any time following the second (2nd) anniversary of the First Commercial Sale of the Licensed Product, for any reason or no reason, upon one hundred eighty (180) days' written notice to CytoDyn.",Yes,"Vyera shall have the right to terminate this Agreement in its entirety:<omitted>(c) at any time following the second (2nd) anniversary of the First Commercial Sale of the Licensed Product, for any reason or no reason, upon one hundred eighty (180) days' written notice to CytoDyn.",False
+34,Termination For Convenience,"Company may terminate this Agreement and the license granted herein, for any reason, upon giving JHU sixty (60) days written notice under Paragraph 8.1.",Yes,"Company may terminate this Agreement and the license granted herein, for any reason, upon giving JHU sixty (60) days written notice under Paragraph 8.1.",False
+35,Termination For Convenience,,No,,False
+36,Termination For Convenience,,No,,False
+37,Termination For Convenience,,No,,False
+38,Termination For Convenience,"Notwithstanding anything to the contrary stated in this Agreement, either party may terminate this Agreement at any time without cause by giving to the other party, not less than four (4) months written notice.",Yes,"Notwithstanding anything to the contrary stated in this Agreement, either party may terminate this Agreement at any time without cause by giving to the other party, not less than four (4) months written notice.",False
+39,Termination For Convenience,,No,,False
+40,Termination For Convenience,,No,,False
+41,Termination For Convenience,,No,,False
+42,Termination For Convenience,The term of this Agreement shall commence on the Effective Date and shall end on the 60th day following a written notice from one party to the other of its decision to terminate this Agreement at the end of such 60-day period or upon termination of the applicable Distribution Agreement with respect to a Fund.,Yes,The term of this Agreement shall commence on the Effective Date and shall end on the 60th day following a written notice from one party to the other of its decision to terminate this Agreement at the end of such 60-day period or upon termination of the applicable Distribution Agreement with respect to a Fund.,False
+43,Termination For Convenience,,No,,False
+44,Termination For Convenience,,No,,False
+45,Termination For Convenience,,No,,False
+46,Termination For Convenience,,No,,False
+47,Termination For Convenience,"The Agreement rests, for all that, cancellable at any time by any of the parties before the expiry date of the Agreement or any of itsrenewals, upon three months prior written notice.",Yes,,False
+48,Termination For Convenience,,No,,False
+49,Termination For Convenience,"Customer shall have the right to terminate any Scope of Work and corresponding Purchase Order for Services at any time on reasonable advance written notice to Supplier (without terminating this Agreement), in which case Customer shall be responsible for:
+
+[* * *]",Yes,"Customer shall have the right to terminate any Scope of Work and corresponding Purchase Order for Services at any time on reasonable advance written notice to Supplier (without terminating this Agreement), in which case Customer shall be responsible for:
+
+[* * *]",False
+50,Termination For Convenience,,No,,False
+51,Termination For Convenience,"After the date that is eighteen (18) months after the Effective Date, either Party may terminate this Agreement upon six (6) months prior written notice to the other Party.",Yes,"After the date that is eighteen (18) months after the Effective Date, either Party may terminate this Agreement upon six (6) months prior written notice to the other Party.",False
+52,Termination For Convenience,Either Party shall have the right to terminate this Agreement before the end of the Term for its convenience upon [***] written notice to the other Party (and any such termination shall become effective at the end of such [***]); [***].,Yes,Either Party shall have the right to terminate this Agreement before the end of the Term for its convenience upon [***] written notice to the other Party (and any such termination shall become effective at the end of such [***]); [***].,False
+53,Termination For Convenience,,No,,False
+54,Termination For Convenience,"Notwithstanding any other provision of this Agreement, MMT may at any time terminate this Agreement on country-by-country basis, or in its entirety, upon [***] months' prior written notice to SIGA.",Yes,"Notwithstanding any other provision of this Agreement, MMT may at any time terminate this Agreement on country-by-country basis, or in its entirety, upon [***] months' prior written notice to SIGA.",False
+55,Termination For Convenience,Either Party may terminate this agreement for non-cause with a sixty (60) written notice.,Yes,Either Party may terminate this agreement for non-cause with a sixty (60) written notice.,False
+56,Termination For Convenience,"Following the Initial Term, either Party may terminate this Agreement without cause upon written notice to the other Party of at least 3 months.",Yes,"Following the Initial Term, either Party may terminate this Agreement without cause upon written notice to the other Party of at least 3 months.",False
+57,Termination For Convenience,"In addition, CHT may terminate this Agreement and the rights granted hereunder, in whole or in part, and without prejudice to enforcement of any other legal right or remedy (including any express termination right set forth elsewhere in this Agreement), at any time without cause, by providing at least thirty (30) Business Days prior written notice to Ehave, but subject to payment of a termination fee equal to an amount set out in Schedule 6.",Yes,"In addition, CHT may terminate this Agreement and the rights granted hereunder, in whole or in part, and without prejudice to enforcement of any other legal right or remedy (including any express termination right set forth elsewhere in this Agreement), at any time without cause, by providing at least thirty (30) Business Days prior written notice to Ehave, but subject to payment of a termination fee equal to an amount set out in Schedule 6.",False
+58,Termination For Convenience,,No,,False
+59,Termination For Convenience,,No,,False
+60,Termination For Convenience,,No,,False
+61,Termination For Convenience,,No,,False
+62,Termination For Convenience,"Except as agreed by the Parties in writing or as otherwise stated in the Exhibits, Company may terminate for convenience any Transition Service, and RGHI may terminate for convenience any Reverse Transition Service, upon 30 days' prior written notice of such termination; provided, (a) that, with respect to the Services described in Section G1 of Exhibit A, unless otherwise indicated therein, those Services may not be terminated independently except in accordance with an agreed Migration Plan and, (b) any unamortized costs associated with Provider's purchase of any license or other costs incurred specifically for the purpose of providing the Services hereunder will be passed through to the Terminating Party.",Yes,"Except as agreed by the Parties in writing or as otherwise stated in the Exhibits, Company may terminate for convenience any Transition Service, and RGHI may terminate for convenience any Reverse Transition Service, upon 30 days' prior written notice of such termination; provided, (a) that, with respect to the Services described in Section G1 of Exhibit A, unless otherwise indicated therein, those Services may not be terminated independently except in accordance with an agreed Migration Plan and, (b) any unamortized costs associated with Provider's purchase of any license or other costs incurred specifically for the purpose of providing the Services hereunder will be passed through to the Terminating Party.",False
+63,Termination For Convenience,,No,,False
+64,Termination For Convenience,,No,,False
+65,Termination For Convenience,Each Party may also terminate the Agreement for convenience after Contract Year 2<omitted>by providing written notice to the other Party at least sixty (60) calendar days prior to the effective date of such termination,Yes,Each Party may also terminate the Agreement for convenience after Contract Year 2<omitted>by providing written notice to the other Party at least sixty (60) calendar days prior to the effective date of such termination,False
+66,Termination For Convenience,,No,,False
+67,Termination For Convenience,,No,,False
+68,Termination For Convenience,,No,,False
+69,Termination For Convenience,,No,,False
+70,Termination For Convenience,,No,,False
+71,Termination For Convenience,,No,,False
+72,Termination For Convenience,Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.,Yes,Either Party may terminate this Agreement by giving the other Party thirty (30) days' prior written notice.,False
+73,Termination For Convenience,,No,,False
+74,Termination For Convenience,"Licensor reserves the right to terminate this Agreement immediately upon written notice for any reason, including if the usage of the Brand is not in compliance with the standards and policies.",Yes,"Licensor reserves the right to terminate this Agreement immediately upon written notice for any reason, including if the usage of the Brand is not in compliance with the standards and policies.",False
+75,Termination For Convenience,This Agreement shall be terminable (a) by the Licensor<omitted>(ii) upon sixty (60) days' written notice by the Licensor to the Licensee or (b) by the Licensee<omitted>(ii) upon sixty (60) days' written notice by the Licensee to the Licensor.,Yes,,False
+76,Termination For Convenience,This Agreement shall be terminable<omitted>by Licensor or Licensee upon sixty (60) days' written notice to the other party;,Yes,,False
+77,Termination For Convenience,,No,,False
+78,Termination For Convenience,,No,,False
+79,Termination For Convenience,,No,,False
+80,Termination For Convenience,,No,,False
+81,Termination For Convenience,,No,,False
+82,Termination For Convenience,,No,,False
+83,Termination For Convenience,,No,,False
+84,Termination For Convenience,,No,,False
+85,Termination For Convenience,,No,,False
+86,Termination For Convenience,"eBix may terminate this Agreement, [**] upon [**] to About; provided,       however, that the termination is no earlier than [**] of the Effective       Date of this Agreement.",Yes,"eBix may terminate this Agreement, [**] upon [**] to About; provided,       however, that the termination is no earlier than [**] of the Effective       Date of this Agreement.",False
+87,Termination For Convenience,,No,,False
+88,Termination For Convenience,Either party wishing to terminate          the Agreement must give written notice to the other party at least          thirty (30) days prior to the desired date of termination.,Yes,Either party wishing to terminate          the Agreement must give written notice to the other party at least          thirty (30) days prior to the desired date of termination.,False
+89,Termination For Convenience,,No,,False
+90,Termination For Convenience,,No,,False
+91,Termination For Convenience,,No,,False
+92,Termination For Convenience,"SpinRecords.com may terminate  this  Agreement  for no reason or for any reason upon sixty (60) days prior  written  notice  to  NETTAXI. NETTAXI  may terminate this Agreement at any time for<omitted>its  convenience,  for  no  reason or for any reason, upon sixty (60) days prior written  notice  to  SpinRecords.com.",Yes,SpinRecords.com may terminate  this  Agreement  for no reason or for any reason upon sixty (60) days prior  written  notice  to  NETTAXI.,False
+93,Termination For Convenience,,No,,False
+94,Termination For Convenience,,No,,False
+95,Termination For Convenience,,No,,False
+96,Termination For Convenience,"Chase may revoke Affiliate's license at any time. Either Affiliate or Chase may terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail notice of termination.",Yes,"Either Affiliate or Chase may terminate this Agreement at any time, with or without cause, by giving the other party written or e-mail notice of termination.",False
+97,Termination For Convenience,,No,,False
+98,Termination For Convenience,Axiometric will have the right to terminate the license to use                   the office space and to move out of the office space at any                   time upon two weeks notice.,Yes,Axiometric will have the right to terminate the license to use                   the office space and to move out of the office space at any                   time upon two weeks notice.,False
+99,Termination For Convenience,"Either party may cancel this Agreement at any time, with or without supplying a reason, through written notification or by making suitable settings in the respective Control Panel. The Software Publisher and element 5 are authorized to revoke the license granted to the Affiliate at any time by written notice.",Yes,,False
