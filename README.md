@@ -12,8 +12,8 @@ A deployed **FastAPI + Gemini** prototype that extracts selected information fro
 - Return structured output, including extraction status and an evidence-substring check.
 - Compare a baseline against LLM extraction on a small CUAD evaluation sample.
 
-**Live demo:** Add your actual Render URL here: `https://<your-render-service>.onrender.com/`  
-**API documentation:** `https://<your-render-service>.onrender.com/docs`
+**Live demo:**  `https://contract-intelligence-2uts.onrender.com`
+**API documentation:** `https://contract-intelligence-2uts.onrender.com/docs`
 
 ## Architecture
 
@@ -38,15 +38,15 @@ The application is hosted on **Render**; **Gemini inference runs through Google'
 
 ## Repository guide
 
-| File | Purpose |
-|---|---|
-| `app.py` | FastAPI routes and browser UI; file validation and text extraction |
-| `llm_extractor.py` | Gemini request, output parsing, evidence check, latency measurement |
-| `pipeline.py` | Rule-based baseline extraction |
-| `inspect_cuad.py` | Obtain and inspect the CUAD-derived clause data |
-| `evaluate_llm.py` | Run a small baseline-vs-LLM evaluation |
-| `analyze_evaluation.py` | Normalize jurisdictions and analyze saved predictions without additional API calls |
-| `pyproject.toml`, `uv.lock` | Python dependency definitions and lockfile |
+| File                            | Purpose                                                                            |
+| ------------------------------- | ---------------------------------------------------------------------------------- |
+| `app.py`                      | FastAPI routes and browser UI; file validation and text extraction                 |
+| `llm_extractor.py`            | Gemini request, output parsing, evidence check, latency measurement                |
+| `pipeline.py`                 | Rule-based baseline extraction                                                     |
+| `inspect_cuad.py`             | Obtain and inspect the CUAD-derived clause data                                    |
+| `evaluate_llm.py`             | Run a small baseline-vs-LLM evaluation                                             |
+| `analyze_evaluation.py`       | Normalize jurisdictions and analyze saved predictions without additional API calls |
+| `pyproject.toml`, `uv.lock` | Python dependency definitions and lockfile                                         |
 
 The downloaded dataset, generated evaluation outputs, `.env`, and private project notes are intentionally excluded from version control.
 
@@ -92,15 +92,15 @@ The scripts use local data and output directories; inspect the script-level path
 
 A **10-example Governing Law** pilot produced the following results after jurisdiction normalization:
 
-| Metric | Observed result |
-|---|---:|
-| CUAD examples attempted | 10 |
-| Successful Gemini API calls | 9 / 10 |
-| Rule-based baseline jurisdiction accuracy | 8 / 10 (80%) |
-| Gemini jurisdiction accuracy, all attempts | 9 / 10 (90%) |
-| Gemini jurisdiction accuracy, successful calls only | 9 / 9 (100%) |
-| Evidence substring-valid rate, successful calls | 100% |
-| Average Gemini latency | ~107.92 seconds |
+| Metric                                              | Observed result |
+| --------------------------------------------------- | --------------: |
+| CUAD examples attempted                             |              10 |
+| Successful Gemini API calls                         |          9 / 10 |
+| Rule-based baseline jurisdiction accuracy           |    8 / 10 (80%) |
+| Gemini jurisdiction accuracy, all attempts          |    9 / 10 (90%) |
+| Gemini jurisdiction accuracy, successful calls only |    9 / 9 (100%) |
+| Evidence substring-valid rate, successful calls     |            100% |
+| Average Gemini latency                              | ~107.92 seconds |
 
 **Interpretation:** This is a very small, single-clause pilot, not a statistically reliable benchmark. Initial strict string matching understated model performance because valid jurisdiction answers were phrased differently; the follow-up analysis normalized jurisdiction names. The substring evidence check only verifies that returned text appears in the source—it **does not** prove semantic correctness, completeness, or legal validity. One API attempt failed or returned no usable answer. Latency is a major limitation.
 
